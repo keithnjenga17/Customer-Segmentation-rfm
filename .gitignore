@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Raw Excel datasets
+Datasets/*.xlsx
+Datasets/*.xls
